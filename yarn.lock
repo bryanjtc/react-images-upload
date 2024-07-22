@@ -17502,8 +17502,8 @@ __metadata:
   linkType: hard
 
 "semantic-release-gitmoji@npm:^1.4.5":
-  version: 1.6.5
-  resolution: "semantic-release-gitmoji@npm:1.6.5"
+  version: 1.6.6
+  resolution: "semantic-release-gitmoji@npm:1.6.6"
   dependencies:
     dateformat: "npm:^3.0.3"
     debug: "npm:^4.3.2"
@@ -17517,8 +17517,8 @@ __metadata:
     lodash.uniq: "npm:^4.5.0"
     node-emoji: "npm:^1.11.0"
   peerDependencies:
-    semantic-release: <23
-  checksum: 10c0/77a89c55def5833e04593c84453573923bec7dd4838ddb55328dd42709b1e376746b6c260a573c9def9c12e62e1a8ff6b7020b3af19a1e249852f54654087be9
+    semantic-release: <24
+  checksum: 10c0/4686808fd5dcc149bd919269f06342731d3125bc20a3d9306ad810d0d6b6cf01cbd721a11cedc5e09d3dec0a6891ccf149c924e26181b0a420392b4b6724c84d
   languageName: node
   linkType: hard
 
