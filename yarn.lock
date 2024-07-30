@@ -8319,6 +8319,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"emoji-regex@npm:^10.3.0":
+  version: 10.3.0
+  resolution: "emoji-regex@npm:10.3.0"
+  checksum: 10c0/b4838e8dcdceb44cf47f59abe352c25ff4fe7857acaf5fb51097c427f6f75b44d052eb907a7a3b86f86bc4eae3a93f5c2b7460abe79c407307e6212d65c91163
+  languageName: node
+  linkType: hard
+
 "emoji-regex@npm:^8.0.0":
   version: 8.0.0
   resolution: "emoji-regex@npm:8.0.0"
@@ -17483,12 +17490,13 @@ __metadata:
   linkType: hard
 
 "semantic-release-gitmoji@npm:^1.4.5":
-  version: 1.6.7
-  resolution: "semantic-release-gitmoji@npm:1.6.7"
+  version: 1.6.8
+  resolution: "semantic-release-gitmoji@npm:1.6.8"
   dependencies:
     dateformat: "npm:^3.0.3"
     debug: "npm:^4.3.2"
-    emoji-regex: "npm:^9.2.2"
+    emoji-regex: "npm:^10.3.0"
+    escape-string-regexp: "npm:^4.0.0"
     git-url-parse: "npm:^13.0.0"
     gitmojis: "npm:^3.13.4"
     handlebars: "npm:^4.7.6"
@@ -17499,7 +17507,7 @@ __metadata:
     node-emoji: "npm:^1.11.0"
   peerDependencies:
     semantic-release: <25
-  checksum: 10c0/a18413f8bb485db3ff52e2b6b9efe94483ca6e6609846e0a8cf47a045fb47f4ad7c821c9b958f2b9fd8bc4ff872fb151ae9b799f723edbddde25411b3d348b7f
+  checksum: 10c0/1d3df2682029987452feee65ef82a8f17520c5256da2daa972bb907014626ad505e4d6adabf57547e6caa1ba19506105b8612d207710eb0a6bfbfa54ccad37ff
   languageName: node
   linkType: hard
 
