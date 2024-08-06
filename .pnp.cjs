@@ -3097,7 +3097,7 @@ const RAW_RUNTIME_STATE =
           ["@csstools/postcss-cascade-layers", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.1.1"],\
           ["@csstools/selector-specificity", "virtual:1f0cd8ddadabadbd31c04600aeff2f80e29ff5b498e664514b752bf92e8c594eb5929e6dbadb9888083432b447e7dbbc06aa726613e01b3abee3e450041f6db1#npm:2.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -3121,7 +3121,7 @@ const RAW_RUNTIME_STATE =
           ["@csstools/postcss-color-function", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.1.1"],\
           ["@csstools/postcss-progressive-custom-properties", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.3.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3144,7 +3144,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-font-format-keywords", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3167,7 +3167,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-hwb-function", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3191,7 +3191,7 @@ const RAW_RUNTIME_STATE =
           ["@csstools/postcss-ic-unit", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.1"],\
           ["@csstools/postcss-progressive-custom-properties", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.3.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3215,7 +3215,7 @@ const RAW_RUNTIME_STATE =
           ["@csstools/postcss-is-pseudo-class", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:2.0.7"],\
           ["@csstools/selector-specificity", "virtual:1f0cd8ddadabadbd31c04600aeff2f80e29ff5b498e664514b752bf92e8c594eb5929e6dbadb9888083432b447e7dbbc06aa726613e01b3abee3e450041f6db1#npm:2.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -3238,7 +3238,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-nested-calc", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3261,7 +3261,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-normalize-display-values", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3285,7 +3285,7 @@ const RAW_RUNTIME_STATE =
           ["@csstools/postcss-oklab-function", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.1.1"],\
           ["@csstools/postcss-progressive-custom-properties", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.3.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3308,7 +3308,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-progressive-custom-properties", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.3.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3331,7 +3331,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-stepped-value-functions", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3354,7 +3354,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-text-decoration-shorthand", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3377,7 +3377,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-trigonometric-functions", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -3400,7 +3400,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@csstools/postcss-unset-value", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -3423,7 +3423,7 @@ const RAW_RUNTIME_STATE =
           ["@csstools/selector-specificity", "virtual:1f0cd8ddadabadbd31c04600aeff2f80e29ff5b498e664514b752bf92e8c594eb5929e6dbadb9888083432b447e7dbbc06aa726613e01b3abee3e450041f6db1#npm:2.0.2"],\
           ["@types/postcss", null],\
           ["@types/postcss-selector-parser", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -5419,7 +5419,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react", null],\
           ["@types/react-dom", null],\
           ["gitmojis", "npm:3.14.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["prop-types", "npm:15.8.1"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:18.3.1"],\
@@ -5448,7 +5448,7 @@ const RAW_RUNTIME_STATE =
           ["@semantic-release/github", "virtual:9869a19b9cac301da62b60e4309d3a1bba47ad8222f27bd70feaff25a104c869d506dded55468019f6fee38fd7baa67c620ade0e78cbd82fc702ae439516efaa#npm:10.1.3"],\
           ["@semantic-release/npm", "virtual:9869a19b9cac301da62b60e4309d3a1bba47ad8222f27bd70feaff25a104c869d506dded55468019f6fee38fd7baa67c620ade0e78cbd82fc702ae439516efaa#npm:12.0.1"],\
           ["gitmojis", "npm:3.14.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["prop-types", "npm:15.8.1"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:18.3.1"],\
@@ -7514,7 +7514,7 @@ const RAW_RUNTIME_STATE =
           ["fraction.js", "npm:4.2.0"],\
           ["normalize-range", "npm:0.1.2"],\
           ["picocolors", "npm:1.0.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -10151,7 +10151,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["css-blank-pseudo", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:3.0.3"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -10174,7 +10174,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["css-declaration-sorter", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:6.3.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -10196,7 +10196,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["css-has-pseudo", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:3.0.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -10229,7 +10229,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["icss-utils", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:5.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-modules-extract-imports", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:3.1.0"],\
           ["postcss-modules-local-by-default", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:4.0.5"],\
           ["postcss-modules-scope", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:3.2.0"],\
@@ -10254,7 +10254,7 @@ const RAW_RUNTIME_STATE =
           ["@types/rspack__core", null],\
           ["@types/webpack", null],\
           ["icss-utils", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:5.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-modules-extract-imports", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:3.1.0"],\
           ["postcss-modules-local-by-default", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:4.0.5"],\
           ["postcss-modules-scope", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:3.2.0"],\
@@ -10295,7 +10295,7 @@ const RAW_RUNTIME_STATE =
           ["csso", null],\
           ["esbuild", null],\
           ["jest-worker", "npm:27.5.1"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["schema-utils", "npm:4.0.0"],\
           ["serialize-javascript", "npm:6.0.0"],\
           ["source-map", "npm:0.6.1"],\
@@ -10329,7 +10329,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["css-prefers-color-scheme", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:6.0.3"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -10441,7 +10441,7 @@ const RAW_RUNTIME_STATE =
           ["@types/postcss", null],\
           ["cssnano-preset-default", "virtual:4e8acea5e484af562f21395000dd5096531a915682a638c49b296662d4ad8c3b18b8b9c1788a39baa97ba6e497580ca5fe89304ba74032b469d25ab8f46907fb#npm:5.2.12"],\
           ["lilconfig", "npm:2.0.6"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["yaml", "npm:1.10.2"]\
         ],\
         "packagePeers": [\
@@ -10466,7 +10466,7 @@ const RAW_RUNTIME_STATE =
           ["@types/postcss", null],\
           ["css-declaration-sorter", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:6.3.1"],\
           ["cssnano-utils", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:3.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-calc", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:8.2.4"],\
           ["postcss-colormin", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.3.0"],\
           ["postcss-convert-values", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.2"],\
@@ -10515,7 +10515,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["cssnano-utils", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:3.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -14084,7 +14084,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["icss-utils", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -18875,10 +18875,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:8.4.40", {\
-        "packageLocation": "./.yarn/cache/postcss-npm-8.4.40-bd95efba25-65ed67573e.zip/node_modules/postcss/",\
+      ["npm:8.4.41", {\
+        "packageLocation": "./.yarn/cache/postcss-npm-8.4.41-1607021b28-c1828fc59e.zip/node_modules/postcss/",\
         "packageDependencies": [\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["nanoid", "npm:3.3.7"],\
           ["picocolors", "npm:1.0.1"],\
           ["source-map-js", "npm:1.2.0"]\
@@ -18899,7 +18899,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-attribute-case-insensitive", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:5.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -18924,7 +18924,7 @@ const RAW_RUNTIME_STATE =
           ["@types/browserslist", null],\
           ["@types/postcss", null],\
           ["browserslist", "npm:4.21.4"],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/browserslist",\
@@ -18948,7 +18948,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-calc", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:8.2.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
@@ -18972,7 +18972,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-clamp", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -18995,7 +18995,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-color-functional-notation", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.2.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19018,7 +19018,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-color-hex-alpha", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:8.0.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19041,7 +19041,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-color-rebeccapurple", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:7.1.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19067,7 +19067,7 @@ const RAW_RUNTIME_STATE =
           ["browserslist", "npm:4.21.4"],\
           ["caniuse-api", "npm:3.0.0"],\
           ["colord", "npm:2.9.3"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19091,7 +19091,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-convert-values", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.2"],\
           ["@types/postcss", null],\
           ["browserslist", "npm:4.21.4"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19114,7 +19114,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-custom-media", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:8.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19137,7 +19137,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-custom-properties", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:12.1.9"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19160,7 +19160,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-custom-selectors", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:6.0.3"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19183,7 +19183,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-dir-pseudo-class", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:6.0.5"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19206,7 +19206,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-discard-comments", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19228,7 +19228,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-discard-duplicates", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19250,7 +19250,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-discard-empty", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19272,7 +19272,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-discard-overridden", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19295,7 +19295,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-double-position-gradients", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:3.1.2"],\
           ["@csstools/postcss-progressive-custom-properties", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.3.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19318,7 +19318,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-env-function", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.0.6"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19341,7 +19341,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-flexbugs-fixes", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:5.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19363,7 +19363,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-focus-visible", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:6.0.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19386,7 +19386,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-focus-within", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:5.0.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19409,7 +19409,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-font-variant", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:5.0.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19431,7 +19431,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-gap-properties", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:3.0.5"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19453,7 +19453,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-image-set-function", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.0.7"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19476,7 +19476,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-import", "virtual:94b2f9073ec0ad6b86f2a3b3da69f7529bfd7b5b61d6c8afd1357b3820b5d4583645bed64ddba3e7aaa5bb67d859611e968f2f9ee1a681eb140f3896f0a2e4e2#npm:14.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"],\
           ["read-cache", "npm:1.0.0"],\
           ["resolve", "patch:resolve@npm%3A1.22.1#optional!builtin<compat/resolve>::version=1.22.1&hash=c3c19d"]\
@@ -19501,7 +19501,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-initial", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.0.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19524,7 +19524,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-js", "virtual:94b2f9073ec0ad6b86f2a3b3da69f7529bfd7b5b61d6c8afd1357b3820b5d4583645bed64ddba3e7aaa5bb67d859611e968f2f9ee1a681eb140f3896f0a2e4e2#npm:4.0.0"],\
           ["@types/postcss", null],\
           ["camelcase-css", "npm:2.0.1"],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19547,7 +19547,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-lab-function", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.2.1"],\
           ["@csstools/postcss-progressive-custom-properties", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:1.3.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19579,7 +19579,7 @@ const RAW_RUNTIME_STATE =
           ["@types/postcss", null],\
           ["@types/ts-node", null],\
           ["lilconfig", "npm:2.0.6"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["ts-node", null],\
           ["yaml", "npm:1.10.2"]\
         ],\
@@ -19601,7 +19601,7 @@ const RAW_RUNTIME_STATE =
           ["@types/yaml", null],\
           ["jiti", null],\
           ["lilconfig", "npm:3.1.2"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["tsx", null],\
           ["yaml", null]\
         ],\
@@ -19634,7 +19634,7 @@ const RAW_RUNTIME_STATE =
           ["@types/webpack", null],\
           ["cosmiconfig", "npm:7.0.1"],\
           ["klona", "npm:2.0.5"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["semver", "npm:7.3.8"],\
           ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.93.0"]\
         ],\
@@ -19660,7 +19660,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-logical", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:5.0.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19682,7 +19682,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-media-minmax", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:5.0.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19704,7 +19704,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-merge-longhand", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.6"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"],\
           ["stylehacks", "virtual:6e2bffdd5b730f145fd7802328f6aa308fa71e8a32ab73d53a7a57c6bfaf5254bd875fdd3a210a5e52a9273da3fbceb6db37629a8ca917bcb031046a06ca6bd8#npm:5.1.0"]\
         ],\
@@ -19731,7 +19731,7 @@ const RAW_RUNTIME_STATE =
           ["browserslist", "npm:4.21.4"],\
           ["caniuse-api", "npm:3.0.0"],\
           ["cssnano-utils", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:3.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19754,7 +19754,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-minify-font-values", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19779,7 +19779,7 @@ const RAW_RUNTIME_STATE =
           ["@types/postcss", null],\
           ["colord", "npm:2.9.3"],\
           ["cssnano-utils", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:3.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19804,7 +19804,7 @@ const RAW_RUNTIME_STATE =
           ["@types/postcss", null],\
           ["browserslist", "npm:4.21.4"],\
           ["cssnano-utils", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:3.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -19827,7 +19827,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-minify-selectors", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.2.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19850,7 +19850,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-modules-extract-imports", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:3.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19873,7 +19873,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-modules-local-by-default", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:4.0.5"],\
           ["@types/postcss", null],\
           ["icss-utils", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:5.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
@@ -19897,7 +19897,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-modules-scope", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:3.2.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19921,7 +19921,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-modules-values", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:4.0.0"],\
           ["@types/postcss", null],\
           ["icss-utils", "virtual:caa797d2b4d3f7b28902a5b725289c1559d32418c06eb2ee19ca0b9e6248767c52b3e7c2b573f4d36c92923f722a38d6ed9aaeb850e2a5ee2a260aa8299eaeb8#npm:5.1.0"],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -19943,7 +19943,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-nested", "virtual:94b2f9073ec0ad6b86f2a3b3da69f7529bfd7b5b61d6c8afd1357b3820b5d4583645bed64ddba3e7aaa5bb67d859611e968f2f9ee1a681eb140f3896f0a2e4e2#npm:5.0.6"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19967,7 +19967,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-nesting", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:10.2.0"],\
           ["@csstools/selector-specificity", "virtual:1f0cd8ddadabadbd31c04600aeff2f80e29ff5b498e664514b752bf92e8c594eb5929e6dbadb9888083432b447e7dbbc06aa726613e01b3abee3e450041f6db1#npm:2.0.2"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -19993,7 +19993,7 @@ const RAW_RUNTIME_STATE =
           ["@types/browserslist", null],\
           ["@types/postcss", null],\
           ["browserslist", "npm:4.21.4"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-browser-comments", "virtual:641a77dde36e4c4e1af545bbd0e61574c7ef04bbcaa2a9796a77403cd410ea978088c0c4f3faf8c3ee547de74a52ced20c65473ac6565002d457dca81efb2b70#npm:4.0.0"],\
           ["sanitize.css", "npm:13.0.0"]\
         ],\
@@ -20019,7 +20019,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-normalize-charset", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -20041,7 +20041,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-normalize-display-values", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20064,7 +20064,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-normalize-positions", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20087,7 +20087,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-normalize-repeat-style", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20110,7 +20110,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-normalize-string", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20133,7 +20133,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-normalize-timing-functions", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20157,7 +20157,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-normalize-unicode", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
           ["browserslist", "npm:4.21.4"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20181,7 +20181,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-normalize-url", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
           ["normalize-url", "npm:6.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20204,7 +20204,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-normalize-whitespace", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20237,7 +20237,7 @@ const RAW_RUNTIME_STATE =
           ["postcss-ordered-values", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.3"],\
           ["@types/postcss", null],\
           ["cssnano-utils", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:3.1.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20260,7 +20260,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-overflow-shorthand", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:3.0.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20283,7 +20283,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-page-break", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:3.0.4"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -20305,7 +20305,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-place", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:7.0.5"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20348,7 +20348,7 @@ const RAW_RUNTIME_STATE =
           ["css-has-pseudo", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:3.0.4"],\
           ["css-prefers-color-scheme", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:6.0.3"],\
           ["cssdb", "npm:7.0.2"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-attribute-case-insensitive", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:5.0.2"],\
           ["postcss-clamp", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.1.0"],\
           ["postcss-color-functional-notation", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.2.4"],\
@@ -20399,7 +20399,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-pseudo-class-any-link", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:7.1.6"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -20424,7 +20424,7 @@ const RAW_RUNTIME_STATE =
           ["@types/postcss", null],\
           ["browserslist", "npm:4.21.4"],\
           ["caniuse-api", "npm:3.0.0"],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -20446,7 +20446,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-reduce-transforms", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"]\
         ],\
         "packagePeers": [\
@@ -20469,7 +20469,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-replace-overflow-wrap", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:4.0.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"]\
+          ["postcss", "npm:8.4.41"]\
         ],\
         "packagePeers": [\
           "@types/postcss",\
@@ -20491,7 +20491,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-selector-not", "virtual:dd4dd86192170a76aadee70bfa397811f7e8765ce1c5a17d48dd39dec40f835aa12245df972025a60d90450ac957733a7e6254d24dedd65584a61c9c251b2371#npm:6.0.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -20525,7 +20525,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-svgo", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.0"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-value-parser", "npm:4.2.0"],\
           ["svgo", "npm:2.8.0"]\
         ],\
@@ -20549,7 +20549,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss-unique-selectors", "virtual:a984a0a3f4cbebf6d17904c57899b6638d64745fc9917157bd8156bab1be6bd200129c749a4d4f272efe0f7ed3fa0574b7cd3bfb2655b8ae829f42159180ddf9#npm:5.1.1"],\
           ["@types/postcss", null],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -21235,7 +21235,7 @@ const RAW_RUNTIME_STATE =
           ["jest-resolve", "npm:27.5.1"],\
           ["jest-watch-typeahead", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:1.1.0"],\
           ["mini-css-extract-plugin", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:2.6.1"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-flexbugs-fixes", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:5.0.2"],\
           ["postcss-loader", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:6.2.1"],\
           ["postcss-normalize", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:10.0.1"],\
@@ -23399,7 +23399,7 @@ const RAW_RUNTIME_STATE =
           ["stylehacks", "virtual:6e2bffdd5b730f145fd7802328f6aa308fa71e8a32ab73d53a7a57c6bfaf5254bd875fdd3a210a5e52a9273da3fbceb6db37629a8ca917bcb031046a06ca6bd8#npm:5.1.0"],\
           ["@types/postcss", null],\
           ["browserslist", "npm:4.21.4"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-selector-parser", "npm:6.0.10"]\
         ],\
         "packagePeers": [\
@@ -23585,7 +23585,7 @@ const RAW_RUNTIME_STATE =
           ["normalize-path", "npm:3.0.0"],\
           ["object-hash", "npm:3.0.0"],\
           ["picocolors", "npm:1.0.0"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-import", "virtual:94b2f9073ec0ad6b86f2a3b3da69f7529bfd7b5b61d6c8afd1357b3820b5d4583645bed64ddba3e7aaa5bb67d859611e968f2f9ee1a681eb140f3896f0a2e4e2#npm:14.1.0"],\
           ["postcss-js", "virtual:94b2f9073ec0ad6b86f2a3b3da69f7529bfd7b5b61d6c8afd1357b3820b5d4583645bed64ddba3e7aaa5bb67d859611e968f2f9ee1a681eb140f3896f0a2e4e2#npm:4.0.0"],\
           ["postcss-load-config", "virtual:94b2f9073ec0ad6b86f2a3b3da69f7529bfd7b5b61d6c8afd1357b3820b5d4583645bed64ddba3e7aaa5bb67d859611e968f2f9ee1a681eb140f3896f0a2e4e2#npm:3.1.4"],\
@@ -24171,7 +24171,7 @@ const RAW_RUNTIME_STATE =
           ["globby", "npm:11.1.0"],\
           ["joycon", "npm:3.1.1"],\
           ["picocolors", "npm:1.0.1"],\
-          ["postcss", "npm:8.4.40"],\
+          ["postcss", "npm:8.4.41"],\
           ["postcss-load-config", "virtual:d3444e8d4764f1d0a03ecb3cb5929b4bc15437b51f80e48c891b22fd3e15038fbc61072ba982177f46381bc420016b5a924ced52b49a53813b744bc8fede6060#npm:6.0.1"],\
           ["resolve-from", "npm:5.0.0"],\
           ["rollup", "npm:4.19.0"],\
@@ -25956,26 +25956,24 @@ function ERR_DIR_CLOSED() {
 
 const DEFAULT_MODE = S_IFREG | 420;
 class StatEntry {
-  constructor() {
-    this.uid = 0;
-    this.gid = 0;
-    this.size = 0;
-    this.blksize = 0;
-    this.atimeMs = 0;
-    this.mtimeMs = 0;
-    this.ctimeMs = 0;
-    this.birthtimeMs = 0;
-    this.atime = new Date(0);
-    this.mtime = new Date(0);
-    this.ctime = new Date(0);
-    this.birthtime = new Date(0);
-    this.dev = 0;
-    this.ino = 0;
-    this.mode = DEFAULT_MODE;
-    this.nlink = 1;
-    this.rdev = 0;
-    this.blocks = 1;
-  }
+  uid = 0;
+  gid = 0;
+  size = 0;
+  blksize = 0;
+  atimeMs = 0;
+  mtimeMs = 0;
+  ctimeMs = 0;
+  birthtimeMs = 0;
+  atime = /* @__PURE__ */ new Date(0);
+  mtime = /* @__PURE__ */ new Date(0);
+  ctime = /* @__PURE__ */ new Date(0);
+  birthtime = /* @__PURE__ */ new Date(0);
+  dev = 0;
+  ino = 0;
+  mode = DEFAULT_MODE;
+  nlink = 1;
+  rdev = 0;
+  blocks = 1;
   isBlockDevice() {
     return false;
   }
@@ -25999,30 +25997,28 @@ class StatEntry {
   }
 }
 class BigIntStatsEntry {
-  constructor() {
-    this.uid = BigInt(0);
-    this.gid = BigInt(0);
-    this.size = BigInt(0);
-    this.blksize = BigInt(0);
-    this.atimeMs = BigInt(0);
-    this.mtimeMs = BigInt(0);
-    this.ctimeMs = BigInt(0);
-    this.birthtimeMs = BigInt(0);
-    this.atimeNs = BigInt(0);
-    this.mtimeNs = BigInt(0);
-    this.ctimeNs = BigInt(0);
-    this.birthtimeNs = BigInt(0);
-    this.atime = new Date(0);
-    this.mtime = new Date(0);
-    this.ctime = new Date(0);
-    this.birthtime = new Date(0);
-    this.dev = BigInt(0);
-    this.ino = BigInt(0);
-    this.mode = BigInt(DEFAULT_MODE);
-    this.nlink = BigInt(1);
-    this.rdev = BigInt(0);
-    this.blocks = BigInt(1);
-  }
+  uid = BigInt(0);
+  gid = BigInt(0);
+  size = BigInt(0);
+  blksize = BigInt(0);
+  atimeMs = BigInt(0);
+  mtimeMs = BigInt(0);
+  ctimeMs = BigInt(0);
+  birthtimeMs = BigInt(0);
+  atimeNs = BigInt(0);
+  mtimeNs = BigInt(0);
+  ctimeNs = BigInt(0);
+  birthtimeNs = BigInt(0);
+  atime = /* @__PURE__ */ new Date(0);
+  mtime = /* @__PURE__ */ new Date(0);
+  ctime = /* @__PURE__ */ new Date(0);
+  birthtime = /* @__PURE__ */ new Date(0);
+  dev = BigInt(0);
+  ino = BigInt(0);
+  mode = BigInt(DEFAULT_MODE);
+  nlink = BigInt(1);
+  rdev = BigInt(0);
+  blocks = BigInt(1);
   isBlockDevice() {
     return false;
   }
@@ -26057,7 +26053,7 @@ function clearStats(stats) {
       } else if (typeof element === `bigint`) {
         stats[key] = BigInt(0);
       } else if (nodeUtils__namespace.types.isDate(element)) {
-        stats[key] = new Date(0);
+        stats[key] = /* @__PURE__ */ new Date(0);
       }
     }
   }
@@ -26148,6 +26144,9 @@ const Filename = {
   manifest: `package.json`,
   lockfile: `yarn.lock`,
   virtual: `__virtual__`,
+  /**
+   * @deprecated
+   */
   pnpJs: `.pnp.js`,
   pnpCjs: `.pnp.cjs`,
   pnpData: `.pnp.data.json`,
@@ -26429,8 +26428,8 @@ class CustomDir {
     this.path = path;
     this.nextDirent = nextDirent;
     this.opts = opts;
-    this.closed = false;
   }
+  closed = false;
   throwIfClosed() {
     if (this.closed) {
       throw ERR_DIR_CLOSED();
@@ -26488,20 +26487,24 @@ function assertStatus(current, expected) {
   }
 }
 class CustomStatWatcher extends events.EventEmitter {
-  constructor(fakeFs, path, { bigint = false } = {}) {
-    super();
-    this.status = "ready" /* Ready */;
-    this.changeListeners = /* @__PURE__ */ new Map();
-    this.startTimeout = null;
-    this.fakeFs = fakeFs;
-    this.path = path;
-    this.bigint = bigint;
-    this.lastStats = this.stat();
-  }
+  fakeFs;
+  path;
+  bigint;
+  status = "ready" /* Ready */;
+  changeListeners = /* @__PURE__ */ new Map();
+  lastStats;
+  startTimeout = null;
   static create(fakeFs, path, opts) {
     const statWatcher = new CustomStatWatcher(fakeFs, path, opts);
     statWatcher.start();
     return statWatcher;
+  }
+  constructor(fakeFs, path, { bigint = false } = {}) {
+    super();
+    this.fakeFs = fakeFs;
+    this.path = path;
+    this.bigint = bigint;
+    this.lastStats = this.stat();
   }
   start() {
     assertStatus(this.status, "ready" /* Ready */);
@@ -26530,6 +26533,11 @@ class CustomStatWatcher extends events.EventEmitter {
       return clearStats(statInstance);
     }
   }
+  /**
+   * Creates an interval whose callback compares the current stats with the previous stats and notifies all listeners in case of changes.
+   *
+   * @param opts.persistent Decides whether the interval should be immediately unref-ed.
+   */
   makeInterval(opts) {
     const interval = setInterval(() => {
       const currentStats = this.stat();
@@ -26541,10 +26549,16 @@ class CustomStatWatcher extends events.EventEmitter {
     }, opts.interval);
     return opts.persistent ? interval : interval.unref();
   }
+  /**
+   * Registers a listener and assigns it an interval.
+   */
   registerChangeListener(listener, opts) {
     this.addListener("change" /* Change */, listener);
     this.changeListeners.set(listener, this.makeInterval(opts));
   }
+  /**
+   * Unregisters the listener and clears the assigned interval.
+   */
   unregisterChangeListener(listener) {
     this.removeListener("change" /* Change */, listener);
     const interval = this.changeListeners.get(listener);
@@ -26552,6 +26566,9 @@ class CustomStatWatcher extends events.EventEmitter {
       clearInterval(interval);
     this.changeListeners.delete(listener);
   }
+  /**
+   * Unregisters all listeners and clears all assigned intervals.
+   */
   unregisterAllChangeListeners() {
     for (const listener of this.changeListeners.keys()) {
       this.unregisterChangeListener(listener);
@@ -26560,11 +26577,17 @@ class CustomStatWatcher extends events.EventEmitter {
   hasChangeListeners() {
     return this.changeListeners.size > 0;
   }
+  /**
+   * Refs all stored intervals.
+   */
   ref() {
     for (const interval of this.changeListeners.values())
       interval.ref();
     return this;
   }
+  /**
+   * Unrefs all stored intervals.
+   */
   unref() {
     for (const interval of this.changeListeners.values())
       interval.unref();
@@ -26635,6 +26658,7 @@ function unwatchAllFiles(fakeFs) {
 }
 
 class FakeFS {
+  pathUtils;
   constructor(pathUtils) {
     this.pathUtils = pathUtils;
   }
@@ -27243,6 +27267,7 @@ class ProxiedFS extends FakeFS {
   watch(p, a, b) {
     return this.baseFs.watch(
       this.mapToBase(p),
+      // @ts-expect-error
       a,
       b
     );
@@ -27250,6 +27275,7 @@ class ProxiedFS extends FakeFS {
   watchFile(p, a, b) {
     return this.baseFs.watchFile(
       this.mapToBase(p),
+      // @ts-expect-error
       a,
       b
     );
@@ -27273,6 +27299,7 @@ function direntToPortable(dirent) {
   return portableDirent;
 }
 class NodeFS extends BasePortableFakeFS {
+  realFs;
   constructor(realFs = fs__default.default) {
     super();
     this.realFs = realFs;
@@ -27668,6 +27695,7 @@ class NodeFS extends BasePortableFakeFS {
   watch(p, a, b) {
     return this.realFs.watch(
       npath.fromPortablePath(p),
+      // @ts-expect-error
       a,
       b
     );
@@ -27675,6 +27703,7 @@ class NodeFS extends BasePortableFakeFS {
   watchFile(p, a, b) {
     return this.realFs.watchFile(
       npath.fromPortablePath(p),
+      // @ts-expect-error
       a,
       b
     );
@@ -27695,16 +27724,25 @@ class NodeFS extends BasePortableFakeFS {
 
 const MOUNT_MASK = 4278190080;
 class MountFS extends BasePortableFakeFS {
+  baseFs;
+  mountInstances;
+  fdMap = /* @__PURE__ */ new Map();
+  nextFd = 3;
+  factoryPromise;
+  factorySync;
+  filter;
+  getMountPoint;
+  magic;
+  maxAge;
+  maxOpenFiles;
+  typeCheck;
+  isMount = /* @__PURE__ */ new Set();
+  notMount = /* @__PURE__ */ new Set();
+  realPaths = /* @__PURE__ */ new Map();
   constructor({ baseFs = new NodeFS(), filter = null, magicByte = 42, maxOpenFiles = Infinity, useCache = true, maxAge = 5e3, typeCheck = fs.constants.S_IFREG, getMountPoint, factoryPromise, factorySync }) {
     if (Math.floor(magicByte) !== magicByte || !(magicByte > 1 && magicByte <= 127))
       throw new Error(`The magic byte must be set to a round value between 1 and 127 included`);
     super();
-    this.fdMap = /* @__PURE__ */ new Map();
-    this.nextFd = 3;
-    this.isMount = /* @__PURE__ */ new Set();
-    this.notMount = /* @__PURE__ */ new Set();
-    this.realPaths = /* @__PURE__ */ new Map();
-    this.limitOpenFilesTimeout = null;
     this.baseFs = baseFs;
     this.mountInstances = useCache ? /* @__PURE__ */ new Map() : null;
     this.factoryPromise = factoryPromise;
@@ -28360,12 +28398,14 @@ class MountFS extends BasePortableFakeFS {
     return this.makeCallSync(p, () => {
       return this.baseFs.watch(
         p,
+        // @ts-expect-error
         a,
         b
       );
     }, (mountFs, { subPath }) => {
       return mountFs.watch(
         subPath,
+        // @ts-expect-error
         a,
         b
       );
@@ -28375,6 +28415,7 @@ class MountFS extends BasePortableFakeFS {
     return this.makeCallSync(p, () => {
       return this.baseFs.watchFile(
         p,
+        // @ts-expect-error
         a,
         b
       );
@@ -28440,6 +28481,7 @@ class MountFS extends BasePortableFakeFS {
       };
     }
   }
+  limitOpenFilesTimeout = null;
   limitOpenFiles(max) {
     if (this.mountInstances === null)
       return;
@@ -28529,6 +28571,7 @@ class MountFS extends BasePortableFakeFS {
 }
 
 class PosixFS extends ProxiedFS {
+  baseFs;
   constructor(baseFs) {
     super(npath);
     this.baseFs = baseFs;
@@ -28545,10 +28588,7 @@ const NUMBER_REGEXP = /^[0-9]+$/;
 const VIRTUAL_REGEXP = /^(\/(?:[^/]+\/)*?(?:\$\$virtual|__virtual__))((?:\/((?:[^/]+-)?[a-f0-9]+)(?:\/([^/]+))?)?((?:\/.*)?))$/;
 const VALID_COMPONENT = /^([^/]+-)?[a-f0-9]+$/;
 class VirtualFS extends ProxiedFS {
-  constructor({ baseFs = new NodeFS() } = {}) {
-    super(ppath);
-    this.baseFs = baseFs;
-  }
+  baseFs;
   static makeVirtualPath(base, component, to) {
     if (ppath.basename(base) !== `__virtual__`)
       throw new Error(`Assertion failed: Virtual folders must be named "__virtual__"`);
@@ -28577,6 +28617,10 @@ class VirtualFS extends ProxiedFS {
     const backstep = `../`.repeat(depth);
     const subpath = match[5] || `.`;
     return VirtualFS.resolveVirtual(ppath.join(target, backstep, subpath));
+  }
+  constructor({ baseFs = new NodeFS() } = {}) {
+    super(ppath);
+    this.baseFs = baseFs;
   }
   getExtractHint(hints) {
     return this.baseFs.getExtractHint(hints);
@@ -28619,6 +28663,7 @@ class VirtualFS extends ProxiedFS {
 const URL = Number(process.versions.node.split('.', 1)[0]) < 20 ? url.URL : globalThis.URL;
 
 class NodePathFS extends ProxiedFS {
+  baseFs;
   constructor(baseFs) {
     super(npath);
     this.baseFs = baseFs;
@@ -28646,7 +28691,6 @@ function isUtf8(buf, str) {
   return Buffer.byteLength(str) === buf.byteLength;
 }
 
-var _a, _b, _c, _d;
 const kBaseFs = Symbol(`kBaseFs`);
 const kFd = Symbol(`kFd`);
 const kClosePromise = Symbol(`kClosePromise`);
@@ -28656,11 +28700,13 @@ const kRefs = Symbol(`kRefs`);
 const kRef = Symbol(`kRef`);
 const kUnref = Symbol(`kUnref`);
 class FileHandle {
+  [kBaseFs];
+  [kFd];
+  [kRefs] = 1;
+  [kClosePromise] = void 0;
+  [kCloseResolve] = void 0;
+  [kCloseReject] = void 0;
   constructor(fd, baseFs) {
-    this[_a] = 1;
-    this[_b] = void 0;
-    this[_c] = void 0;
-    this[_d] = void 0;
     this[kBaseFs] = baseFs;
     this[kFd] = fd;
   }
@@ -28698,9 +28744,11 @@ class FileHandle {
   createWriteStream(options) {
     return this[kBaseFs].createWriteStream(null, { ...options, fd: this.fd });
   }
+  // FIXME: Missing FakeFS version
   datasync() {
     throw new Error(`Method not implemented.`);
   }
+  // FIXME: Missing FakeFS version
   sync() {
     throw new Error(`Method not implemented.`);
   }
@@ -28765,6 +28813,7 @@ class FileHandle {
       this[kUnref]();
     }
   }
+  // FIXME: Missing FakeFS version
   utimes(atime, mtime) {
     throw new Error(`Method not implemented.`);
   }
@@ -28793,6 +28842,7 @@ class FileHandle {
       this[kUnref]();
     }
   }
+  // TODO: Use writev from FakeFS when that is implemented
   async writev(buffers, position) {
     try {
       this[kRef](this.writev);
@@ -28817,14 +28867,13 @@ class FileHandle {
       this[kUnref]();
     }
   }
+  // FIXME: Missing FakeFS version
   readv(buffers, position) {
     throw new Error(`Method not implemented.`);
   }
   close() {
-    if (this[kFd] === -1)
-      return Promise.resolve();
-    if (this[kClosePromise])
-      return this[kClosePromise];
+    if (this[kFd] === -1) return Promise.resolve();
+    if (this[kClosePromise]) return this[kClosePromise];
     this[kRefs]--;
     if (this[kRefs] === 0) {
       const fd = this[kFd];
@@ -28844,7 +28893,7 @@ class FileHandle {
     }
     return this[kClosePromise];
   }
-  [(_a = kRefs, _b = kClosePromise, _c = kCloseResolve, _d = kCloseReject, kRef)](caller) {
+  [kRef](caller) {
     if (this[kFd] === -1) {
       const err = new Error(`file closed`);
       err.code = `EBADF`;
@@ -29104,8 +29153,7 @@ var libzipSync = {exports: {}};
 var frozenFs = Object.assign({}, fs__default.default);
 var createModule = function() {
   var _scriptDir = void 0;
-  if (typeof __filename !== "undefined")
-    _scriptDir = _scriptDir || __filename;
+  if (typeof __filename !== "undefined") _scriptDir = _scriptDir || __filename;
   return function(createModule2) {
     createModule2 = createModule2 || {};
     var Module = typeof createModule2 !== "undefined" ? createModule2 : {};
@@ -29140,10 +29188,8 @@ var createModule = function() {
         if (ret) {
           return binary ? ret : ret.toString();
         }
-        if (!nodeFS)
-          nodeFS = frozenFs;
-        if (!nodePath)
-          nodePath = path__default.default;
+        if (!nodeFS) nodeFS = frozenFs;
+        if (!nodePath) nodePath = path__default.default;
         filename = nodePath["normalize"](filename);
         return nodeFS["readFileSync"](filename, binary ? null : "utf8");
       };
@@ -29171,23 +29217,18 @@ var createModule = function() {
       }
     }
     moduleOverrides = null;
-    if (Module["arguments"])
-      ;
-    if (Module["thisProgram"])
-      ;
-    if (Module["quit"])
-      ;
+    if (Module["arguments"]) ;
+    if (Module["thisProgram"]) ;
+    if (Module["quit"]) ;
     var wasmBinary;
-    if (Module["wasmBinary"])
-      wasmBinary = Module["wasmBinary"];
+    if (Module["wasmBinary"]) wasmBinary = Module["wasmBinary"];
     Module["noExitRuntime"] || true;
     if (typeof WebAssembly !== "object") {
       abort("no native wasm support detected");
     }
     function getValue(ptr, type, noSafe) {
       type = type || "i8";
-      if (type.charAt(type.length - 1) === "*")
-        type = "i32";
+      if (type.charAt(type.length - 1) === "*") type = "i32";
       switch (type) {
         case "i1":
           return HEAP8[ptr >> 0];
@@ -29241,10 +29282,8 @@ var createModule = function() {
         }
       };
       function convertReturnValue(ret2) {
-        if (returnType === "string")
-          return UTF8ToString(ret2);
-        if (returnType === "boolean")
-          return Boolean(ret2);
+        if (returnType === "string") return UTF8ToString(ret2);
+        if (returnType === "boolean") return Boolean(ret2);
         return ret2;
       }
       var func = getCFunc(ident);
@@ -29254,8 +29293,7 @@ var createModule = function() {
         for (var i = 0; i < args.length; i++) {
           var converter = toC[argTypes[i]];
           if (converter) {
-            if (stack === 0)
-              stack = stackSave();
+            if (stack === 0) stack = stackSave();
             cArgs[i] = converter(args[i]);
           } else {
             cArgs[i] = args[i];
@@ -29264,8 +29302,7 @@ var createModule = function() {
       }
       var ret = func.apply(null, cArgs);
       ret = convertReturnValue(ret);
-      if (stack !== 0)
-        stackRestore(stack);
+      if (stack !== 0) stackRestore(stack);
       return ret;
     }
     function cwrap(ident, returnType, argTypes, opts) {
@@ -29283,16 +29320,13 @@ var createModule = function() {
     }
     var UTF8Decoder = new TextDecoder("utf8");
     function UTF8ToString(ptr, maxBytesToRead) {
-      if (!ptr)
-        return "";
+      if (!ptr) return "";
       var maxPtr = ptr + maxBytesToRead;
-      for (var end = ptr; !(end >= maxPtr) && HEAPU8[end]; )
-        ++end;
+      for (var end = ptr; !(end >= maxPtr) && HEAPU8[end]; ) ++end;
       return UTF8Decoder.decode(HEAPU8.subarray(ptr, end));
     }
     function stringToUTF8Array(str, heap, outIdx, maxBytesToWrite) {
-      if (!(maxBytesToWrite > 0))
-        return 0;
+      if (!(maxBytesToWrite > 0)) return 0;
       var startIdx = outIdx;
       var endIdx = outIdx + maxBytesToWrite - 1;
       for (var i = 0; i < str.length; ++i) {
@@ -29302,23 +29336,19 @@ var createModule = function() {
           u = 65536 + ((u & 1023) << 10) | u1 & 1023;
         }
         if (u <= 127) {
-          if (outIdx >= endIdx)
-            break;
+          if (outIdx >= endIdx) break;
           heap[outIdx++] = u;
         } else if (u <= 2047) {
-          if (outIdx + 1 >= endIdx)
-            break;
+          if (outIdx + 1 >= endIdx) break;
           heap[outIdx++] = 192 | u >> 6;
           heap[outIdx++] = 128 | u & 63;
         } else if (u <= 65535) {
-          if (outIdx + 2 >= endIdx)
-            break;
+          if (outIdx + 2 >= endIdx) break;
           heap[outIdx++] = 224 | u >> 12;
           heap[outIdx++] = 128 | u >> 6 & 63;
           heap[outIdx++] = 128 | u & 63;
         } else {
-          if (outIdx + 3 >= endIdx)
-            break;
+          if (outIdx + 3 >= endIdx) break;
           heap[outIdx++] = 240 | u >> 18;
           heap[outIdx++] = 128 | u >> 12 & 63;
           heap[outIdx++] = 128 | u >> 6 & 63;
@@ -29337,22 +29367,17 @@ var createModule = function() {
         var u = str.charCodeAt(i);
         if (u >= 55296 && u <= 57343)
           u = 65536 + ((u & 1023) << 10) | str.charCodeAt(++i) & 1023;
-        if (u <= 127)
-          ++len;
-        else if (u <= 2047)
-          len += 2;
-        else if (u <= 65535)
-          len += 3;
-        else
-          len += 4;
+        if (u <= 127) ++len;
+        else if (u <= 2047) len += 2;
+        else if (u <= 65535) len += 3;
+        else len += 4;
       }
       return len;
     }
     function allocateUTF8(str) {
       var size = lengthBytesUTF8(str) + 1;
       var ret = _malloc(size);
-      if (ret)
-        stringToUTF8Array(str, HEAP8, ret, size);
+      if (ret) stringToUTF8Array(str, HEAP8, ret, size);
       return ret;
     }
     function writeArrayToMemory(array, buffer2) {
@@ -29569,8 +29594,7 @@ var createModule = function() {
       var start = Date.UTC(date.getUTCFullYear(), 0, 1, 0, 0, 0, 0);
       var yday = (date.getTime() - start) / (1e3 * 60 * 60 * 24) | 0;
       LE_HEAP_STORE_I32((tmPtr + 28 >> 2) * 4, yday);
-      if (!_gmtime_r.GMTString)
-        _gmtime_r.GMTString = allocateUTF8("GMT");
+      if (!_gmtime_r.GMTString) _gmtime_r.GMTString = allocateUTF8("GMT");
       LE_HEAP_STORE_I32((tmPtr + 40 >> 2) * 4, _gmtime_r.GMTString);
       return tmPtr;
     }
@@ -29622,10 +29646,9 @@ var createModule = function() {
       return ret;
     }
     function _tzset() {
-      if (_tzset.called)
-        return;
+      if (_tzset.called) return;
       _tzset.called = true;
-      var currentYear = new Date().getFullYear();
+      var currentYear = (/* @__PURE__ */ new Date()).getFullYear();
       var winter = new Date(currentYear, 0, 1);
       var summer = new Date(currentYear, 6, 1);
       var winterOffset = winter.getTimezoneOffset();
@@ -29753,10 +29776,8 @@ var createModule = function() {
     Module["getValue"] = getValue;
     var calledRun;
     dependenciesFulfilled = function runCaller() {
-      if (!calledRun)
-        run();
-      if (!calledRun)
-        dependenciesFulfilled = runCaller;
+      if (!calledRun) run();
+      if (!calledRun) dependenciesFulfilled = runCaller;
     };
     function run(args) {
       if (runDependencies > 0) {
@@ -29767,16 +29788,13 @@ var createModule = function() {
         return;
       }
       function doRun() {
-        if (calledRun)
-          return;
+        if (calledRun) return;
         calledRun = true;
         Module["calledRun"] = true;
-        if (ABORT)
-          return;
+        if (ABORT) return;
         initRuntime();
         readyPromiseResolve(Module);
-        if (Module["onRuntimeInitialized"])
-          Module["onRuntimeInitialized"]();
+        if (Module["onRuntimeInitialized"]) Module["onRuntimeInitialized"]();
         postRun();
       }
       if (Module["setStatus"]) {
@@ -29810,7 +29828,9 @@ const createModule = libzipSync.exports;
 
 const number64 = [
   `number`,
+  // low
   `number`
+  // high
 ];
 var Errors = /* @__PURE__ */ ((Errors2) => {
   Errors2[Errors2["ZIP_ER_OK"] = 0] = "ZIP_ER_OK";
@@ -29848,6 +29868,7 @@ var Errors = /* @__PURE__ */ ((Errors2) => {
   return Errors2;
 })(Errors || {});
 const makeInterface = (emZip) => ({
+  // Those are getters because they can change after memory growth
   get HEAPU8() {
     return emZip.HEAPU8;
   },
@@ -30050,6 +30071,7 @@ function makeEmptyArchive() {
   ]);
 }
 class LibzipError extends Error {
+  code;
   constructor(message, code) {
     super(message);
     this.name = `Libzip Error`;
@@ -30057,15 +30079,28 @@ class LibzipError extends Error {
   }
 }
 class ZipFS extends BasePortableFakeFS {
+  libzip;
+  baseFs;
+  path;
+  stats;
+  zip;
+  lzSource;
+  level;
+  listings = /* @__PURE__ */ new Map();
+  entries = /* @__PURE__ */ new Map();
+  /**
+   * A cache of indices mapped to file sources.
+   * Populated by `setFileSource` calls.
+   * Required for supporting read after write.
+   */
+  fileSources = /* @__PURE__ */ new Map();
+  symlinkCount;
+  fds = /* @__PURE__ */ new Map();
+  nextFd = 0;
+  ready = false;
+  readOnly = false;
   constructor(source, opts = {}) {
     super();
-    this.listings = /* @__PURE__ */ new Map();
-    this.entries = /* @__PURE__ */ new Map();
-    this.fileSources = /* @__PURE__ */ new Map();
-    this.fds = /* @__PURE__ */ new Map();
-    this.nextFd = 0;
-    this.ready = false;
-    this.readOnly = false;
     const pathOptions = opts;
     this.level = typeof pathOptions.level !== `undefined` ? pathOptions.level : DEFAULT_COMPRESSION_LEVEL;
     source ??= makeEmptyArchive();
@@ -30314,6 +30349,7 @@ class ZipFS extends BasePortableFakeFS {
         },
         bytesRead: 0,
         path: p,
+        // "This property is `true` if the underlying file has not been opened yet"
         pending: false
       }
     );
@@ -30360,6 +30396,7 @@ class ZipFS extends BasePortableFakeFS {
         },
         bytesWritten: 0,
         path: p,
+        // "This property is `true` if the underlying file has not been opened yet"
         pending: false
       }
     );
@@ -31499,6 +31536,8 @@ function hydrateRuntimeState(data, { basePath }) {
         packagePeers: new Set(packageInformationData.packagePeers),
         linkType: packageInformationData.linkType,
         discardFromLookup,
+        // we only need this for packages that are used by the currently running script
+        // this is a lazy getter because `ppath.join` has some overhead
         get packageLocation() {
           return resolvedPackageLocation || (resolvedPackageLocation = ppath.join(absolutePortablePath, packageInformationData.packageLocation));
         }
@@ -31760,8 +31799,7 @@ function resolvePackageTargetString(target, subpath, match, packageJSONUrl, base
   const packagePath = new URL(".", packageJSONUrl).pathname;
   if (!StringPrototypeStartsWith(resolvedPath, packagePath))
     throwInvalidPackageTarget(match, target, packageJSONUrl, internal, base);
-  if (subpath === "")
-    return resolved;
+  if (subpath === "") return resolved;
   if (RegExpPrototypeExec(invalidSegmentRegEx, subpath) !== null) {
     const request = pattern ? StringPrototypeReplace(match, "*", () => subpath) : match + subpath;
     throwInvalidSubpath(request, packageJSONUrl, internal, base);
@@ -31775,8 +31813,7 @@ function resolvePackageTargetString(target, subpath, match, packageJSONUrl, base
 }
 function isArrayIndex(key) {
   const keyNum = +key;
-  if (`${keyNum}` !== key)
-    return false;
+  if (`${keyNum}` !== key) return false;
   return keyNum >= 0 && keyNum < 4294967295;
 }
 function resolvePackageTarget(packageJSONUrl, target, subpath, packageSubpath, base, pattern, internal, conditions) {
@@ -31853,8 +31890,7 @@ function resolvePackageTarget(packageJSONUrl, target, subpath, packageSubpath, b
           internal,
           conditions
         );
-        if (resolveResult === void 0)
-          continue;
+        if (resolveResult === void 0) continue;
         return resolveResult;
       }
     }
@@ -31875,25 +31911,17 @@ function patternKeyCompare(a, b) {
   const bPatternIndex = StringPrototypeIndexOf(b, "*");
   const baseLenA = aPatternIndex === -1 ? a.length : aPatternIndex + 1;
   const baseLenB = bPatternIndex === -1 ? b.length : bPatternIndex + 1;
-  if (baseLenA > baseLenB)
-    return -1;
-  if (baseLenB > baseLenA)
-    return 1;
-  if (aPatternIndex === -1)
-    return 1;
-  if (bPatternIndex === -1)
-    return -1;
-  if (a.length > b.length)
-    return -1;
-  if (b.length > a.length)
-    return 1;
+  if (baseLenA > baseLenB) return -1;
+  if (baseLenB > baseLenA) return 1;
+  if (aPatternIndex === -1) return 1;
+  if (bPatternIndex === -1) return -1;
+  if (a.length > b.length) return -1;
+  if (b.length > a.length) return 1;
   return 0;
 }
 function isConditionalExportsMainSugar(exports, packageJSONUrl, base) {
-  if (typeof exports === "string" || ArrayIsArray(exports))
-    return true;
-  if (typeof exports !== "object" || exports === null)
-    return false;
+  if (typeof exports === "string" || ArrayIsArray(exports)) return true;
+  if (typeof exports !== "object" || exports === null) return false;
   const keys = ObjectGetOwnPropertyNames(exports);
   let isConditionalSugar = false;
   let i = 0;
@@ -31922,8 +31950,7 @@ function throwExportsNotFound(subpath, packageJSONUrl, base) {
 const emittedPackageWarnings = /* @__PURE__ */ new Set();
 function emitTrailingSlashPatternDeprecation(match, pjsonUrl, base) {
   const pjsonPath = url.fileURLToPath(pjsonUrl);
-  if (emittedPackageWarnings.has(pjsonPath + "|" + match))
-    return;
+  if (emittedPackageWarnings.has(pjsonPath + "|" + match)) return;
   emittedPackageWarnings.add(pjsonPath + "|" + match);
   process.emitWarning(
     `Use of deprecated trailing slash pattern mapping "${match}" in the "exports" field module resolution of the package at ${pjsonPath}${base ? ` imported from ${url.fileURLToPath(base)}` : ""}. Mapping specifiers ending in "/" is no longer supported.`,
@@ -33192,9 +33219,9 @@ const defaultFsLayer = new VirtualFS({
   })
 });
 class DynamicFS extends ProxiedFS {
+  baseFs = defaultFsLayer;
   constructor() {
     super(ppath);
-    this.baseFs = defaultFsLayer;
   }
   mapToBase(p) {
     return p;
@@ -33209,6 +33236,11 @@ const defaultApi = Object.assign(makeApi(defaultRuntimeState, {
   fakeFs: dynamicFsLayer,
   pnpapiResolution: defaultPnpapiResolution
 }), {
+  /**
+   * Can be used to generate a different API than the default one (for example
+   * to map it on `/` rather than the local directory path, or to use a
+   * different FS layer than the default one).
+   */
   makeApi: ({
     basePath = void 0,
     fakeFs = dynamicFsLayer,
@@ -33222,6 +33254,10 @@ const defaultApi = Object.assign(makeApi(defaultRuntimeState, {
       ...rest
     });
   },
+  /**
+   * Will inject the specified API into the environment, monkey-patching FS. Is
+   * automatically called when the hook is loaded through `--require`.
+   */
   setup: (api) => {
     applyPatch(api || defaultApi, {
       fakeFs: defaultFsLayer,
