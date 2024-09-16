@@ -7802,29 +7802,29 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["babel-loader", [\
-      ["npm:8.3.0", {\
-        "packageLocation": "./.yarn/cache/babel-loader-npm-8.3.0-a5239d7ed2-7b83bae35a.zip/node_modules/babel-loader/",\
+      ["npm:8.4.1", {\
+        "packageLocation": "./.yarn/cache/babel-loader-npm-8.4.1-24e96acb97-efdca9c3ef.zip/node_modules/babel-loader/",\
         "packageDependencies": [\
-          ["babel-loader", "npm:8.3.0"]\
+          ["babel-loader", "npm:8.4.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["npm:9.1.3", {\
-        "packageLocation": "./.yarn/cache/babel-loader-npm-9.1.3-cbf4da21df-e3fc3c9e02.zip/node_modules/babel-loader/",\
+      ["npm:9.2.1", {\
+        "packageLocation": "./.yarn/cache/babel-loader-npm-9.2.1-6cf3231de6-efb82faff4.zip/node_modules/babel-loader/",\
         "packageDependencies": [\
-          ["babel-loader", "npm:9.1.3"]\
+          ["babel-loader", "npm:9.2.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:8.3.0", {\
-        "packageLocation": "./.yarn/__virtual__/babel-loader-virtual-f40823b8d2/0/cache/babel-loader-npm-8.3.0-a5239d7ed2-7b83bae35a.zip/node_modules/babel-loader/",\
+      ["virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:8.4.1", {\
+        "packageLocation": "./.yarn/__virtual__/babel-loader-virtual-b74f508afb/0/cache/babel-loader-npm-8.4.1-24e96acb97-efdca9c3ef.zip/node_modules/babel-loader/",\
         "packageDependencies": [\
-          ["babel-loader", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:8.3.0"],\
+          ["babel-loader", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:8.4.1"],\
           ["@babel/core", "npm:7.19.3"],\
           ["@types/babel__core", null],\
           ["@types/webpack", null],\
           ["find-cache-dir", "npm:3.3.2"],\
-          ["loader-utils", "npm:2.0.2"],\
+          ["loader-utils", "npm:2.0.4"],\
           ["make-dir", "npm:3.1.0"],\
           ["schema-utils", "npm:2.7.1"],\
           ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.94.0"]\
@@ -7837,10 +7837,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:9.1.3", {\
-        "packageLocation": "./.yarn/__virtual__/babel-loader-virtual-b26018260b/0/cache/babel-loader-npm-9.1.3-cbf4da21df-e3fc3c9e02.zip/node_modules/babel-loader/",\
+      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:9.2.1", {\
+        "packageLocation": "./.yarn/__virtual__/babel-loader-virtual-b2f43c845b/0/cache/babel-loader-npm-9.2.1-6cf3231de6-efb82faff4.zip/node_modules/babel-loader/",\
         "packageDependencies": [\
-          ["babel-loader", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:9.1.3"],\
+          ["babel-loader", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:9.2.1"],\
           ["@babel/core", null],\
           ["@types/babel__core", null],\
           ["@types/webpack", null],\
@@ -16553,6 +16553,16 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
+      ["npm:2.0.4", {\
+        "packageLocation": "./.yarn/cache/loader-utils-npm-2.0.4-ba3800585b-d5654a77f9.zip/node_modules/loader-utils/",\
+        "packageDependencies": [\
+          ["loader-utils", "npm:2.0.4"],\
+          ["big.js", "npm:5.2.2"],\
+          ["emojis-list", "npm:3.0.0"],\
+          ["json5", "npm:2.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:3.2.0", {\
         "packageLocation": "./.yarn/cache/loader-utils-npm-3.2.0-02250d00d7-573f7059f2.zip/node_modules/loader-utils/",\
         "packageDependencies": [\
@@ -21227,7 +21237,7 @@ const RAW_RUNTIME_STATE =
           ["@starlord25/react-images-upload", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#workspace:packages/component"],\
           ["babel-cli", "npm:6.26.0"],\
           ["babel-core", "npm:6.26.3"],\
-          ["babel-loader", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:9.1.3"],\
+          ["babel-loader", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:9.2.1"],\
           ["babel-preset-env", "npm:1.7.0"],\
           ["babel-preset-react", "npm:6.24.1"],\
           ["css-loader", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:7.1.2"],\
@@ -21298,7 +21308,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react", null],\
           ["@types/typescript", null],\
           ["babel-jest", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:27.5.1"],\
-          ["babel-loader", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:8.3.0"],\
+          ["babel-loader", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:8.4.1"],\
           ["babel-plugin-named-asset-import", "virtual:7515e76bdaf6e07cae45c1975a87c34e62b8304971259ca2f4f53c896b64a0577b477c1fc955955097871a5f80742e175de9cf99274627c6bdac0c04e4d53dd2#npm:0.3.8"],\
           ["babel-preset-react-app", "npm:10.0.1"],\
           ["bfj", "npm:7.0.2"],\
