@@ -13708,6 +13708,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["highlightjs-vue", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "./.yarn/cache/highlightjs-vue-npm-1.0.0-dde75cc994-9be378c70b.zip/node_modules/highlightjs-vue/",\
+        "packageDependencies": [\
+          ["highlightjs-vue", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["home-or-tmp", [\
       ["npm:2.0.0", {\
         "packageLocation": "./.yarn/cache/home-or-tmp-npm-2.0.0-8c183736e3-a0e0d26db0.zip/node_modules/home-or-tmp/",\
@@ -21229,7 +21238,7 @@ const RAW_RUNTIME_STATE =
           ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:18.3.1"],\
           ["react-flip-move", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:3.0.5"],\
           ["react-scripts", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.0.1"],\
-          ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:15.5.0"],\
+          ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:15.6.1"],\
           ["style-loader", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:4.0.0"],\
           ["webpack", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.95.0"],\
           ["webpack-cli", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.1.4"],\
@@ -21347,20 +21356,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react-syntax-highlighter", [\
-      ["npm:15.5.0", {\
-        "packageLocation": "./.yarn/cache/react-syntax-highlighter-npm-15.5.0-da5363373b-2bf57a1ea1.zip/node_modules/react-syntax-highlighter/",\
+      ["npm:15.6.1", {\
+        "packageLocation": "./.yarn/cache/react-syntax-highlighter-npm-15.6.1-f0ce0bfa5f-4a4cf4695c.zip/node_modules/react-syntax-highlighter/",\
         "packageDependencies": [\
-          ["react-syntax-highlighter", "npm:15.5.0"]\
+          ["react-syntax-highlighter", "npm:15.6.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:15.5.0", {\
-        "packageLocation": "./.yarn/__virtual__/react-syntax-highlighter-virtual-7278c27fd0/0/cache/react-syntax-highlighter-npm-15.5.0-da5363373b-2bf57a1ea1.zip/node_modules/react-syntax-highlighter/",\
+      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:15.6.1", {\
+        "packageLocation": "./.yarn/__virtual__/react-syntax-highlighter-virtual-acb8080d38/0/cache/react-syntax-highlighter-npm-15.6.1-f0ce0bfa5f-4a4cf4695c.zip/node_modules/react-syntax-highlighter/",\
         "packageDependencies": [\
-          ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:15.5.0"],\
+          ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:15.6.1"],\
           ["@babel/runtime", "npm:7.19.4"],\
           ["@types/react", null],\
           ["highlight.js", "npm:10.7.3"],\
+          ["highlightjs-vue", "npm:1.0.0"],\
           ["lowlight", "npm:1.20.0"],\
           ["prismjs", "npm:1.29.0"],\
           ["react", "npm:18.3.1"],\
