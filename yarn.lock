@@ -5591,17 +5591,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-flip-move@npm:3.0.4":
-  version: 3.0.4
-  resolution: "react-flip-move@npm:3.0.4"
-  peerDependencies:
-    react: ">=16.3.x"
-    react-dom: ">=16.3.x"
-  checksum: 10c0/a550d7ba3865c4b4fbde0c5b88c35e2bda3bf96ba09b4babfc50b42dd393f38909a2a7f165f539e1a5b105235ea11a28bbf46c5b6828ae323ad72850b06efe47
-  languageName: node
-  linkType: hard
-
-"react-flip-move@npm:^3.0.4":
+"react-flip-move@npm:3.0.5, react-flip-move@npm:^3.0.4":
   version: 3.0.5
   resolution: "react-flip-move@npm:3.0.5"
   peerDependencies:
@@ -5620,7 +5610,7 @@ __metadata:
     gh-pages: "npm:6.0.0"
     react: "npm:19.1.0"
     react-dom: "npm:19.1.0"
-    react-flip-move: "npm:3.0.4"
+    react-flip-move: "npm:3.0.5"
     react-syntax-highlighter: "npm:15.6.1"
     vite: "npm:6.3.5"
   languageName: unknown
