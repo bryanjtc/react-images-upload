@@ -6539,36 +6539,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react-flip-move", [\
-      ["npm:3.0.4", {\
-        "packageLocation": "./.yarn/cache/react-flip-move-npm-3.0.4-728773a9f4-a550d7ba38.zip/node_modules/react-flip-move/",\
-        "packageDependencies": [\
-          ["react-flip-move", "npm:3.0.4"]\
-        ],\
-        "linkType": "SOFT"\
-      }],\
       ["npm:3.0.5", {\
         "packageLocation": "./.yarn/cache/react-flip-move-npm-3.0.5-493d28ca0d-b69fc7f71a.zip/node_modules/react-flip-move/",\
         "packageDependencies": [\
           ["react-flip-move", "npm:3.0.5"]\
         ],\
         "linkType": "SOFT"\
-      }],\
-      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:3.0.4", {\
-        "packageLocation": "./.yarn/__virtual__/react-flip-move-virtual-3efdbe0c9d/0/cache/react-flip-move-npm-3.0.4-728773a9f4-a550d7ba38.zip/node_modules/react-flip-move/",\
-        "packageDependencies": [\
-          ["@types/react", null],\
-          ["@types/react-dom", null],\
-          ["react", "npm:19.1.0"],\
-          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.1.0"],\
-          ["react-flip-move", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:3.0.4"]\
-        ],\
-        "packagePeers": [\
-          "@types/react-dom",\
-          "@types/react",\
-          "react-dom",\
-          "react"\
-        ],\
-        "linkType": "HARD"\
       }],\
       ["virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:3.0.5", {\
         "packageLocation": "./.yarn/__virtual__/react-flip-move-virtual-0709c26624/0/cache/react-flip-move-npm-3.0.5-493d28ca0d-b69fc7f71a.zip/node_modules/react-flip-move/",\
@@ -6616,7 +6592,7 @@ const RAW_RUNTIME_STATE =
           ["gh-pages", "npm:6.0.0"],\
           ["react", "npm:19.1.0"],\
           ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.1.0"],\
-          ["react-flip-move", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:3.0.4"],\
+          ["react-flip-move", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:3.0.5"],\
           ["react-images-upload-example", "workspace:packages/example"],\
           ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:15.6.1"],\
           ["vite", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:6.3.5"]\
