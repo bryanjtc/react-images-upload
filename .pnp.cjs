@@ -264,12 +264,12 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:9636999be0e8be84f1ace8594007769cebfb67ed0fc9f09618f169248f5d4bdf13e6e657227039dd71298016924b48386eda6dbea947629ddac5824ca889f51d#npm:7.27.1", {\
-        "packageLocation": "./.yarn/__virtual__/@babel-plugin-transform-react-jsx-self-virtual-da75f5cbaa/0/cache/@babel-plugin-transform-react-jsx-self-npm-7.27.1-bd0fa344f1-00a4f917b7.zip/node_modules/@babel/plugin-transform-react-jsx-self/",\
+      ["virtual:6f97367477ef6407eaba8acf72c9701ef4cdf13532ed70954dbe72fd122f121e6a2d1d00c3dece78a1e8a414c51e89389fa785a8f9987d471081b4d977e65ece#npm:7.27.1", {\
+        "packageLocation": "./.yarn/__virtual__/@babel-plugin-transform-react-jsx-self-virtual-84e3296fb6/0/cache/@babel-plugin-transform-react-jsx-self-npm-7.27.1-bd0fa344f1-00a4f917b7.zip/node_modules/@babel/plugin-transform-react-jsx-self/",\
         "packageDependencies": [\
           ["@babel/core", "npm:7.28.4"],\
           ["@babel/helper-plugin-utils", "npm:7.27.1"],\
-          ["@babel/plugin-transform-react-jsx-self", "virtual:9636999be0e8be84f1ace8594007769cebfb67ed0fc9f09618f169248f5d4bdf13e6e657227039dd71298016924b48386eda6dbea947629ddac5824ca889f51d#npm:7.27.1"],\
+          ["@babel/plugin-transform-react-jsx-self", "virtual:6f97367477ef6407eaba8acf72c9701ef4cdf13532ed70954dbe72fd122f121e6a2d1d00c3dece78a1e8a414c51e89389fa785a8f9987d471081b4d977e65ece#npm:7.27.1"],\
           ["@types/babel__core", "npm:7.20.5"]\
         ],\
         "packagePeers": [\
@@ -287,12 +287,12 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:9636999be0e8be84f1ace8594007769cebfb67ed0fc9f09618f169248f5d4bdf13e6e657227039dd71298016924b48386eda6dbea947629ddac5824ca889f51d#npm:7.27.1", {\
-        "packageLocation": "./.yarn/__virtual__/@babel-plugin-transform-react-jsx-source-virtual-104f96561d/0/cache/@babel-plugin-transform-react-jsx-source-npm-7.27.1-36a9716d8f-5e67b56c39.zip/node_modules/@babel/plugin-transform-react-jsx-source/",\
+      ["virtual:6f97367477ef6407eaba8acf72c9701ef4cdf13532ed70954dbe72fd122f121e6a2d1d00c3dece78a1e8a414c51e89389fa785a8f9987d471081b4d977e65ece#npm:7.27.1", {\
+        "packageLocation": "./.yarn/__virtual__/@babel-plugin-transform-react-jsx-source-virtual-58019bf2f3/0/cache/@babel-plugin-transform-react-jsx-source-npm-7.27.1-36a9716d8f-5e67b56c39.zip/node_modules/@babel/plugin-transform-react-jsx-source/",\
         "packageDependencies": [\
           ["@babel/core", "npm:7.28.4"],\
           ["@babel/helper-plugin-utils", "npm:7.27.1"],\
-          ["@babel/plugin-transform-react-jsx-source", "virtual:9636999be0e8be84f1ace8594007769cebfb67ed0fc9f09618f169248f5d4bdf13e6e657227039dd71298016924b48386eda6dbea947629ddac5824ca889f51d#npm:7.27.1"],\
+          ["@babel/plugin-transform-react-jsx-source", "virtual:6f97367477ef6407eaba8acf72c9701ef4cdf13532ed70954dbe72fd122f121e6a2d1d00c3dece78a1e8a414c51e89389fa785a8f9987d471081b4d977e65ece#npm:7.27.1"],\
           ["@types/babel__core", "npm:7.20.5"]\
         ],\
         "packagePeers": [\
@@ -1216,10 +1216,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@rolldown/pluginutils", [\
-      ["npm:1.0.0-beta.35", {\
-        "packageLocation": "./.yarn/cache/@rolldown-pluginutils-npm-1.0.0-beta.35-da26651219-feb6ab8f77.zip/node_modules/@rolldown/pluginutils/",\
+      ["npm:1.0.0-beta.38", {\
+        "packageLocation": "./.yarn/cache/@rolldown-pluginutils-npm-1.0.0-beta.38-e054a37977-8353ec2528.zip/node_modules/@rolldown/pluginutils/",\
         "packageDependencies": [\
-          ["@rolldown/pluginutils", "npm:1.0.0-beta.35"]\
+          ["@rolldown/pluginutils", "npm:1.0.0-beta.38"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2081,23 +2081,23 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@vitejs/plugin-react", [\
-      ["npm:5.0.3", {\
-        "packageLocation": "./.yarn/cache/@vitejs-plugin-react-npm-5.0.3-1431a239ac-3fc0714556.zip/node_modules/@vitejs/plugin-react/",\
+      ["npm:5.0.4", {\
+        "packageLocation": "./.yarn/cache/@vitejs-plugin-react-npm-5.0.4-9daac481a5-bb9360a4b4.zip/node_modules/@vitejs/plugin-react/",\
         "packageDependencies": [\
-          ["@vitejs/plugin-react", "npm:5.0.3"]\
+          ["@vitejs/plugin-react", "npm:5.0.4"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.0.3", {\
-        "packageLocation": "./.yarn/__virtual__/@vitejs-plugin-react-virtual-9636999be0/0/cache/@vitejs-plugin-react-npm-5.0.3-1431a239ac-3fc0714556.zip/node_modules/@vitejs/plugin-react/",\
+      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.0.4", {\
+        "packageLocation": "./.yarn/__virtual__/@vitejs-plugin-react-virtual-6f97367477/0/cache/@vitejs-plugin-react-npm-5.0.4-9daac481a5-bb9360a4b4.zip/node_modules/@vitejs/plugin-react/",\
         "packageDependencies": [\
           ["@babel/core", "npm:7.28.4"],\
-          ["@babel/plugin-transform-react-jsx-self", "virtual:9636999be0e8be84f1ace8594007769cebfb67ed0fc9f09618f169248f5d4bdf13e6e657227039dd71298016924b48386eda6dbea947629ddac5824ca889f51d#npm:7.27.1"],\
-          ["@babel/plugin-transform-react-jsx-source", "virtual:9636999be0e8be84f1ace8594007769cebfb67ed0fc9f09618f169248f5d4bdf13e6e657227039dd71298016924b48386eda6dbea947629ddac5824ca889f51d#npm:7.27.1"],\
-          ["@rolldown/pluginutils", "npm:1.0.0-beta.35"],\
+          ["@babel/plugin-transform-react-jsx-self", "virtual:6f97367477ef6407eaba8acf72c9701ef4cdf13532ed70954dbe72fd122f121e6a2d1d00c3dece78a1e8a414c51e89389fa785a8f9987d471081b4d977e65ece#npm:7.27.1"],\
+          ["@babel/plugin-transform-react-jsx-source", "virtual:6f97367477ef6407eaba8acf72c9701ef4cdf13532ed70954dbe72fd122f121e6a2d1d00c3dece78a1e8a414c51e89389fa785a8f9987d471081b4d977e65ece#npm:7.27.1"],\
+          ["@rolldown/pluginutils", "npm:1.0.0-beta.38"],\
           ["@types/babel__core", "npm:7.20.5"],\
           ["@types/vite", null],\
-          ["@vitejs/plugin-react", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.0.3"],\
+          ["@vitejs/plugin-react", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.0.4"],\
           ["react-refresh", "npm:0.17.0"],\
           ["vite", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:7.1.7"]\
         ],\
@@ -6805,7 +6805,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./packages/example/",\
         "packageDependencies": [\
           ["@starlord25/react-images-upload", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#workspace:packages/component"],\
-          ["@vitejs/plugin-react", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.0.3"],\
+          ["@vitejs/plugin-react", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:5.0.4"],\
           ["gh-pages", "npm:6.3.0"],\
           ["react", "npm:19.1.1"],\
           ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.1.1"],\
