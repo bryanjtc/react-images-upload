@@ -955,14 +955,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/plugin-paginate-rest@npm:^13.0.0":
-  version: 13.0.0
-  resolution: "@octokit/plugin-paginate-rest@npm:13.0.0"
+"@octokit/openapi-types@npm:^27.0.0":
+  version: 27.0.0
+  resolution: "@octokit/openapi-types@npm:27.0.0"
+  checksum: 10c0/602d1de033da180a2e982cdbd3646bd5b2e16ecf36b9955a0f23e37ae9e6cb086abb48ff2ae6f2de000fce03e8ae9051794611ae4a95a8f5f6fb63276e7b8e31
+  languageName: node
+  linkType: hard
+
+"@octokit/plugin-paginate-rest@npm:^14.0.0":
+  version: 14.0.0
+  resolution: "@octokit/plugin-paginate-rest@npm:14.0.0"
   dependencies:
-    "@octokit/types": "npm:^14.0.0"
+    "@octokit/types": "npm:^16.0.0"
   peerDependencies:
     "@octokit/core": ">=6"
-  checksum: 10c0/921641f7d46c91688f9b34d4b4335e55c3b06d892c769392eabbafabc80955ef75721f8a5a5017ce8d0e21952fc334ae32e0e623a6d15fa63098d3bbda05e7ea
+  checksum: 10c0/841d79d4ccfe18fc809a4a67529b75c1dcdda13399bf4bf5b48ce7559c8b4b2cd422e3204bad4cbdea31c0cf0943521067415268e5bcfc615a3b813e058cad6b
   languageName: node
   linkType: hard
 
@@ -1019,6 +1026,15 @@ __metadata:
   dependencies:
     "@octokit/openapi-types": "npm:^25.0.0"
   checksum: 10c0/c82da635fe99f265dbef7bf954d45a23ca7ce9c6fc9a8478c247b5435799e5d0eab3ff42f085785ee0882b2de293cab0ab831b379c66f41d00b78412df850ba4
+  languageName: node
+  linkType: hard
+
+"@octokit/types@npm:^16.0.0":
+  version: 16.0.0
+  resolution: "@octokit/types@npm:16.0.0"
+  dependencies:
+    "@octokit/openapi-types": "npm:^27.0.0"
+  checksum: 10c0/b8d41098ba6fc194d13d641f9441347e3a3b96c0efabac0e14f57319340a2d4d1c8676e4cb37ab3062c5c323c617e790b0126916e9bf7b201b0cced0826f8ae2
   languageName: node
   linkType: hard
 
@@ -1431,11 +1447,11 @@ __metadata:
   linkType: hard
 
 "@semantic-release/github@npm:^12.0.0":
-  version: 12.0.0
-  resolution: "@semantic-release/github@npm:12.0.0"
+  version: 12.0.1
+  resolution: "@semantic-release/github@npm:12.0.1"
   dependencies:
     "@octokit/core": "npm:^7.0.0"
-    "@octokit/plugin-paginate-rest": "npm:^13.0.0"
+    "@octokit/plugin-paginate-rest": "npm:^14.0.0"
     "@octokit/plugin-retry": "npm:^8.0.0"
     "@octokit/plugin-throttling": "npm:^11.0.0"
     "@semantic-release/error": "npm:^4.0.0"
@@ -1452,7 +1468,7 @@ __metadata:
     url-join: "npm:^5.0.0"
   peerDependencies:
     semantic-release: ">=24.1.0"
-  checksum: 10c0/088dfef57426bf0605bcf508e6adcd178957bcb933e7f1251db644f77efde2f9dd7a50ec58c570f130c72899540124001fadb0da6fde573af5597ac4aaa36a6f
+  checksum: 10c0/58732bafeec6dc123372c98c15afa74dc2097e0a69f3adbb5f571432ba89faf9566a8d21a062d39a7177a5080e272da322824de39aee6e1671804351ecbfefdc
   languageName: node
   linkType: hard
 
