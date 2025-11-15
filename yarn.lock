@@ -1686,8 +1686,8 @@ __metadata:
   linkType: hard
 
 "@semantic-release/npm@npm:^13.0.0, @semantic-release/npm@npm:^13.1.1":
-  version: 13.1.1
-  resolution: "@semantic-release/npm@npm:13.1.1"
+  version: 13.1.2
+  resolution: "@semantic-release/npm@npm:13.1.2"
   dependencies:
     "@actions/core": "npm:^1.11.1"
     "@semantic-release/error": "npm:^4.0.0"
@@ -1700,13 +1700,13 @@ __metadata:
     normalize-url: "npm:^8.0.0"
     npm: "npm:^11.6.2"
     rc: "npm:^1.2.8"
-    read-pkg: "npm:^9.0.0"
+    read-pkg: "npm:^10.0.0"
     registry-auth-token: "npm:^5.0.0"
     semver: "npm:^7.1.2"
     tempy: "npm:^3.0.0"
   peerDependencies:
     semantic-release: ">=20.1.0"
-  checksum: 10c0/4b74d46d4ee7ec0e4487b23fdb1a1dad7974a75e7dd8cccbab0238c4e513367927860069ea22678c9e4373418cf0279f26bbb668c4d4308ac68d92f1e14c1ebf
+  checksum: 10c0/97652841882814e2e2f6bf7e5504a3b08cbec4628d02267e2c4a427389619a5dc4dfd1706c06e5f71e661a2b32a0cd79d3c4097d8979b967fe8ce6a17f74fb19
   languageName: node
   linkType: hard
 
