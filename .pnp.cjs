@@ -7013,7 +7013,7 @@ const RAW_RUNTIME_STATE =
           ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4"],\
           ["react-flip-move", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:3.0.5"],\
           ["react-images-upload-example", "workspace:packages/example"],\
-          ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:16.1.0"],\
+          ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:16.1.1"],\
           ["vite", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:7.3.1"]\
         ],\
         "linkType": "SOFT"\
@@ -7038,15 +7038,15 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react-syntax-highlighter", [\
-      ["npm:16.1.0", {\
-        "packageLocation": "./.yarn/cache/react-syntax-highlighter-npm-16.1.0-3a18429ce2-0c07a569a3.zip/node_modules/react-syntax-highlighter/",\
+      ["npm:16.1.1", {\
+        "packageLocation": "./.yarn/cache/react-syntax-highlighter-npm-16.1.1-0368c1686b-5f3d7361f3.zip/node_modules/react-syntax-highlighter/",\
         "packageDependencies": [\
-          ["react-syntax-highlighter", "npm:16.1.0"]\
+          ["react-syntax-highlighter", "npm:16.1.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:16.1.0", {\
-        "packageLocation": "./.yarn/__virtual__/react-syntax-highlighter-virtual-841a328c07/0/cache/react-syntax-highlighter-npm-16.1.0-3a18429ce2-0c07a569a3.zip/node_modules/react-syntax-highlighter/",\
+      ["virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:16.1.1", {\
+        "packageLocation": "./.yarn/__virtual__/react-syntax-highlighter-virtual-d45178ac9f/0/cache/react-syntax-highlighter-npm-16.1.1-0368c1686b-5f3d7361f3.zip/node_modules/react-syntax-highlighter/",\
         "packageDependencies": [\
           ["@babel/runtime", "npm:7.28.4"],\
           ["@types/react", null],\
@@ -7055,7 +7055,7 @@ const RAW_RUNTIME_STATE =
           ["lowlight", "npm:1.20.0"],\
           ["prismjs", "npm:1.30.0"],\
           ["react", "npm:19.2.4"],\
-          ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:16.1.0"],\
+          ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:16.1.1"],\
           ["refractor", "npm:5.0.0"]\
         ],\
         "packagePeers": [\
