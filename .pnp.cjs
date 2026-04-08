@@ -1722,8 +1722,8 @@ const RAW_RUNTIME_STATE =
           ["gitmojis", "npm:3.15.0"],\
           ["postcss", "npm:8.5.9"],\
           ["prop-types", "npm:15.8.1"],\
-          ["react", "npm:19.2.4"],\
-          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4"],\
+          ["react", "npm:19.2.5"],\
+          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.5"],\
           ["react-flip-move", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:3.0.5"],\
           ["semantic-release", "npm:25.0.3"],\
           ["semantic-release-gitmoji", "virtual:6dfa37f4185f34fba1ee377d72f97faa7bb76d0a5aabcb2d054588e5a7ee71c5946b603a5d6641486352c8f09d28549cb026fb370d1f20f30c57adb58b31144f#npm:1.6.9"],\
@@ -1751,8 +1751,8 @@ const RAW_RUNTIME_STATE =
           ["gitmojis", "npm:3.15.0"],\
           ["postcss", "npm:8.5.9"],\
           ["prop-types", "npm:15.8.1"],\
-          ["react", "npm:19.2.4"],\
-          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4"],\
+          ["react", "npm:19.2.5"],\
+          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.5"],\
           ["react-flip-move", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:3.0.5"],\
           ["semantic-release", "npm:25.0.3"],\
           ["semantic-release-gitmoji", "virtual:6dfa37f4185f34fba1ee377d72f97faa7bb76d0a5aabcb2d054588e5a7ee71c5946b603a5d6641486352c8f09d28549cb026fb370d1f20f30c57adb58b31144f#npm:1.6.9"],\
@@ -6712,28 +6712,28 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["react", [\
-      ["npm:19.2.4", {\
-        "packageLocation": "./.yarn/cache/react-npm-19.2.4-d29a5aac4d-cd2c9ff67a.zip/node_modules/react/",\
+      ["npm:19.2.5", {\
+        "packageLocation": "./.yarn/cache/react-npm-19.2.5-1e4f979df2-4b5f231dbe.zip/node_modules/react/",\
         "packageDependencies": [\
-          ["react", "npm:19.2.4"]\
+          ["react", "npm:19.2.5"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["react-dom", [\
-      ["npm:19.2.4", {\
-        "packageLocation": "./.yarn/cache/react-dom-npm-19.2.4-4921ae503e-f0c63f1794.zip/node_modules/react-dom/",\
+      ["npm:19.2.5", {\
+        "packageLocation": "./.yarn/cache/react-dom-npm-19.2.5-94c3f138c3-8067606e9f.zip/node_modules/react-dom/",\
         "packageDependencies": [\
-          ["react-dom", "npm:19.2.4"]\
+          ["react-dom", "npm:19.2.5"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4", {\
-        "packageLocation": "./.yarn/__virtual__/react-dom-virtual-2dde194670/0/cache/react-dom-npm-19.2.4-4921ae503e-f0c63f1794.zip/node_modules/react-dom/",\
+      ["virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.5", {\
+        "packageLocation": "./.yarn/__virtual__/react-dom-virtual-8c4453e777/0/cache/react-dom-npm-19.2.5-94c3f138c3-8067606e9f.zip/node_modules/react-dom/",\
         "packageDependencies": [\
           ["@types/react", null],\
-          ["react", "npm:19.2.4"],\
-          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4"],\
+          ["react", "npm:19.2.5"],\
+          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.5"],\
           ["scheduler", "npm:0.27.0"]\
         ],\
         "packagePeers": [\
@@ -6756,8 +6756,8 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@types/react", null],\
           ["@types/react-dom", null],\
-          ["react", "npm:19.2.4"],\
-          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4"],\
+          ["react", "npm:19.2.5"],\
+          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.5"],\
           ["react-flip-move", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:3.0.5"]\
         ],\
         "packagePeers": [\
@@ -6795,8 +6795,8 @@ const RAW_RUNTIME_STATE =
           ["@starlord25/react-images-upload", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#workspace:packages/component"],\
           ["@vitejs/plugin-react", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:6.0.1"],\
           ["gh-pages", "npm:6.3.0"],\
-          ["react", "npm:19.2.4"],\
-          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4"],\
+          ["react", "npm:19.2.5"],\
+          ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.5"],\
           ["react-flip-move", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:3.0.5"],\
           ["react-images-upload-example", "workspace:packages/example"],\
           ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:16.1.1"],\
@@ -6831,7 +6831,7 @@ const RAW_RUNTIME_STATE =
           ["highlightjs-vue", "npm:1.0.0"],\
           ["lowlight", "npm:1.20.0"],\
           ["prismjs", "npm:1.30.0"],\
-          ["react", "npm:19.2.4"],\
+          ["react", "npm:19.2.5"],\
           ["react-syntax-highlighter", "virtual:8074a3f2b3eb0d26cbeece8920ac5d0e5fb88dcbb7755d57a074a0e32493e15246bf37f8bce206a789384cbe59f6d3a8fb1c04c5819ccf505a39262c71028c75#npm:16.1.1"],\
           ["refractor", "npm:5.0.0"]\
         ],\
