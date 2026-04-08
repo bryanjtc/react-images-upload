@@ -1720,7 +1720,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react", null],\
           ["@types/react-dom", null],\
           ["gitmojis", "npm:3.15.0"],\
-          ["postcss", "npm:8.5.8"],\
+          ["postcss", "npm:8.5.9"],\
           ["prop-types", "npm:15.8.1"],\
           ["react", "npm:19.2.4"],\
           ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4"],\
@@ -1749,7 +1749,7 @@ const RAW_RUNTIME_STATE =
           ["@semantic-release/npm", "virtual:06054c7e7bf89d0d1d29b247bd92c9b02ff0be35c4e22660b7589d600371dbdb36677c04dd8a7a7c9eaebb42545a9e49b291830179b6aac10b072a1662d6e544#npm:13.1.5"],\
           ["@starlord25/react-images-upload", "workspace:packages/component"],\
           ["gitmojis", "npm:3.15.0"],\
-          ["postcss", "npm:8.5.8"],\
+          ["postcss", "npm:8.5.9"],\
           ["prop-types", "npm:15.8.1"],\
           ["react", "npm:19.2.4"],\
           ["react-dom", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:19.2.4"],\
@@ -6490,12 +6490,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["postcss", [\
-      ["npm:8.5.8", {\
-        "packageLocation": "./.yarn/cache/postcss-npm-8.5.8-b010bee8df-dd918f7127.zip/node_modules/postcss/",\
+      ["npm:8.5.9", {\
+        "packageLocation": "./.yarn/cache/postcss-npm-8.5.9-0b69075ff7-7cb2b32202.zip/node_modules/postcss/",\
         "packageDependencies": [\
           ["nanoid", "npm:3.3.11"],\
           ["picocolors", "npm:1.1.1"],\
-          ["postcss", "npm:8.5.8"],\
+          ["postcss", "npm:8.5.9"],\
           ["source-map-js", "npm:1.2.1"]\
         ],\
         "linkType": "HARD"\
@@ -6518,7 +6518,7 @@ const RAW_RUNTIME_STATE =
           ["@types/yaml", null],\
           ["jiti", null],\
           ["lilconfig", "npm:3.1.3"],\
-          ["postcss", "npm:8.5.8"],\
+          ["postcss", "npm:8.5.9"],\
           ["postcss-load-config", "virtual:7df46aa263ca4cfe89b27bfe9ba13498c9663e309523b5bf051e35d6c58c4eaf3cb3407d0a3f507a7b65ac8c3cc77a59ebc992ef1f8f7875399a3aa7bfb37f1c#npm:6.0.1"],\
           ["tsx", null],\
           ["yaml", null]\
@@ -8098,7 +8098,7 @@ const RAW_RUNTIME_STATE =
           ["fix-dts-default-cjs-exports", "npm:1.0.1"],\
           ["joycon", "npm:3.1.1"],\
           ["picocolors", "npm:1.1.1"],\
-          ["postcss", "npm:8.5.8"],\
+          ["postcss", "npm:8.5.9"],\
           ["postcss-load-config", "virtual:7df46aa263ca4cfe89b27bfe9ba13498c9663e309523b5bf051e35d6c58c4eaf3cb3407d0a3f507a7b65ac8c3cc77a59ebc992ef1f8f7875399a3aa7bfb37f1c#npm:6.0.1"],\
           ["resolve-from", "npm:5.0.0"],\
           ["rollup", "npm:4.41.1"],\
@@ -8421,7 +8421,7 @@ const RAW_RUNTIME_STATE =
           ["less", null],\
           ["lightningcss", "npm:1.32.0"],\
           ["picomatch", "npm:4.0.4"],\
-          ["postcss", "npm:8.5.8"],\
+          ["postcss", "npm:8.5.9"],\
           ["rolldown", "npm:1.0.0-rc.13"],\
           ["sass", null],\
           ["sass-embedded", null],\
