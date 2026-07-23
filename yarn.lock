@@ -5940,18 +5940,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:19.2.7":
-  version: 19.2.7
-  resolution: "react-dom@npm:19.2.7"
-  dependencies:
-    scheduler: "npm:^0.27.0"
-  peerDependencies:
-    react: ^19.2.7
-  checksum: 10c0/970ff600f6e80d47d39e2f226f12f226173b3cba3382efc97c5f0cd663de9af38c7a4c11c213fb936094faeac83060d660247accaa96b752180d5b951b9cfecb
-  languageName: node
-  linkType: hard
-
-"react-dom@npm:^19.0.0":
+"react-dom@npm:19.2.8, react-dom@npm:^19.0.0":
   version: 19.2.8
   resolution: "react-dom@npm:19.2.8"
   dependencies:
@@ -5980,7 +5969,7 @@ __metadata:
     "@vitejs/plugin-react": "npm:6.0.4"
     gh-pages: "npm:6.3.0"
     react: "npm:19.2.8"
-    react-dom: "npm:19.2.7"
+    react-dom: "npm:19.2.8"
     react-flip-move: "npm:3.0.5"
     react-syntax-highlighter: "npm:16.1.1"
     vite: "npm:8.1.5"
