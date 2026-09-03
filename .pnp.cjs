@@ -1662,7 +1662,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-release-gitmoji", "virtual:6dfa37f4185f34fba1ee377d72f97faa7bb76d0a5aabcb2d054588e5a7ee71c5946b603a5d6641486352c8f09d28549cb026fb370d1f20f30c57adb58b31144f#npm:1.6.9"],\
           ["semantic-release-monorepo", "virtual:6dfa37f4185f34fba1ee377d72f97faa7bb76d0a5aabcb2d054588e5a7ee71c5946b603a5d6641486352c8f09d28549cb026fb370d1f20f30c57adb58b31144f#npm:8.0.2"],\
           ["tsup", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:8.5.1"],\
-          ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.2"]\
+          ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.3"]\
         ],\
         "packagePeers": [\
           "@types/react-dom",\
@@ -1691,7 +1691,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-release-gitmoji", "virtual:6dfa37f4185f34fba1ee377d72f97faa7bb76d0a5aabcb2d054588e5a7ee71c5946b603a5d6641486352c8f09d28549cb026fb370d1f20f30c57adb58b31144f#npm:1.6.9"],\
           ["semantic-release-monorepo", "virtual:6dfa37f4185f34fba1ee377d72f97faa7bb76d0a5aabcb2d054588e5a7ee71c5946b603a5d6641486352c8f09d28549cb026fb370d1f20f30c57adb58b31144f#npm:8.0.2"],\
           ["tsup", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:8.5.1"],\
-          ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.2"]\
+          ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.3"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -5524,8 +5524,8 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:7e2399712abd16febe88af60556e368ea84183c068f5ef59cdaa8555ef55a846139514a8fae662802e95f5cad18f9907164c04cdb115953d056ea07a4543de0c#npm:5.8.0", {\
-        "packageLocation": "./.yarn/__virtual__/minimizer-webpack-plugin-virtual-8252d2ab02/0/cache/minimizer-webpack-plugin-npm-5.8.0-05dc257111-f7dfc6e02f.zip/node_modules/minimizer-webpack-plugin/",\
+      ["virtual:f31f228ee687bf31988a252957f3ffc6085669d71b23d16ceb61ea6991da991b9b7acc03d7395e22a2ae745203715e682c5fc6c0b0b4ac08b63513d24a604a8e#npm:5.8.0", {\
+        "packageLocation": "./.yarn/__virtual__/minimizer-webpack-plugin-virtual-2274d82f74/0/cache/minimizer-webpack-plugin-npm-5.8.0-05dc257111-f7dfc6e02f.zip/node_modules/minimizer-webpack-plugin/",\
         "packageDependencies": [\
           ["@jridgewell/trace-mapping", "npm:0.3.31"],\
           ["@minify-html/node", null],\
@@ -5552,12 +5552,12 @@ const RAW_RUNTIME_STATE =
           ["html-minifier-terser", null],\
           ["jest-worker", "npm:27.5.1"],\
           ["lightningcss", null],\
-          ["minimizer-webpack-plugin", "virtual:7e2399712abd16febe88af60556e368ea84183c068f5ef59cdaa8555ef55a846139514a8fae662802e95f5cad18f9907164c04cdb115953d056ea07a4543de0c#npm:5.8.0"],\
+          ["minimizer-webpack-plugin", "virtual:f31f228ee687bf31988a252957f3ffc6085669d71b23d16ceb61ea6991da991b9b7acc03d7395e22a2ae745203715e682c5fc6c0b0b4ac08b63513d24a604a8e#npm:5.8.0"],\
           ["postcss", null],\
           ["schema-utils", "npm:4.3.3"],\
           ["terser", "npm:5.51.2"],\
           ["uglify-js", null],\
-          ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.2"]\
+          ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.3"]\
         ],\
         "packagePeers": [\
           "@minify-html/node",\
@@ -8621,15 +8621,15 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["webpack", [\
-      ["npm:5.110.2", {\
-        "packageLocation": "./.yarn/cache/webpack-npm-5.110.2-479331f882-1fb6eb4c45.zip/node_modules/webpack/",\
+      ["npm:5.110.3", {\
+        "packageLocation": "./.yarn/cache/webpack-npm-5.110.3-acec6a9fc0-e1c86317d2.zip/node_modules/webpack/",\
         "packageDependencies": [\
-          ["webpack", "npm:5.110.2"]\
+          ["webpack", "npm:5.110.3"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.2", {\
-        "packageLocation": "./.yarn/__virtual__/webpack-virtual-7e2399712a/0/cache/webpack-npm-5.110.2-479331f882-1fb6eb4c45.zip/node_modules/webpack/",\
+      ["virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.3", {\
+        "packageLocation": "./.yarn/__virtual__/webpack-virtual-f31f228ee6/0/cache/webpack-npm-5.110.3-acec6a9fc0-e1c86317d2.zip/node_modules/webpack/",\
         "packageDependencies": [\
           ["@types/estree", "npm:1.0.8"],\
           ["@types/json-schema", "npm:7.0.15"],\
@@ -8645,12 +8645,12 @@ const RAW_RUNTIME_STATE =
           ["events", "npm:3.3.0"],\
           ["graceful-fs", "npm:4.2.11"],\
           ["mime-db", "npm:1.54.0"],\
-          ["minimizer-webpack-plugin", "virtual:7e2399712abd16febe88af60556e368ea84183c068f5ef59cdaa8555ef55a846139514a8fae662802e95f5cad18f9907164c04cdb115953d056ea07a4543de0c#npm:5.8.0"],\
+          ["minimizer-webpack-plugin", "virtual:f31f228ee687bf31988a252957f3ffc6085669d71b23d16ceb61ea6991da991b9b7acc03d7395e22a2ae745203715e682c5fc6c0b0b4ac08b63513d24a604a8e#npm:5.8.0"],\
           ["neo-async", "npm:2.6.2"],\
           ["schema-utils", "npm:4.3.3"],\
           ["tapable", "npm:2.3.0"],\
           ["watchpack", "npm:2.5.2"],\
-          ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.2"],\
+          ["webpack", "virtual:ef6f78a33c19ef12200bdad55f9d058878f4207e951b855c6e16a66172163199666cc87d81fc61bedfccb6bc32bc70bd5696ea059af607ecee18e30d6e752ac6#npm:5.110.3"],\
           ["webpack-cli", null],\
           ["webpack-sources", "npm:3.5.1"]\
         ],\
